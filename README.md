@@ -33,7 +33,7 @@ Need a dose of inspiration? Looking to level up your coding game? Or perhaps you
 
 Got a burning question? Want to collaborate on a project? Or maybe you just want to geek out over the latest tech trends. Whatever it is, I'm all ears (figuratively speaking, of course).
 
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/saksham-sharma-89085b19b/)) and let's make some coding magic happen! ✨
+- Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/saksham-sharma-89085b19b/) and let's make some coding magic happen! ✨
 - Checkout my other [Github Profile](https://github.com/saksham-procol) (yes sadly i had to maintain a separate profile for my company)
 - Connect with me on [Insta Page](https://www.instagram.com/saksham_sharma_10/)
 
