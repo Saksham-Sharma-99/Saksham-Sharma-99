@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img width="18%" src="https://sakshampublicdocuments.s3.ap-south-1.amazonaws.com/me-animated.png" alt="Saksham Sharma — Backend and AI Systems Engineer" />
+  <img width="24%" src="https://sakshampublicdocuments.s3.ap-south-1.amazonaws.com/me-animated-2.png" alt="Saksham Sharma — Backend and AI Systems Engineer" />
 
   <h3>Building the backends and AI systems other software runs on.</h3>
 
